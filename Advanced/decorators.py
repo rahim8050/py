@@ -21,7 +21,7 @@ def calc_cube(numbers):
     for number in numbers:
         result.append(number*number*number)
     return result
-
+#nice repo for learning machine learning
 array = range(1,100000)
 out_square = calc_square(array)
 out_cube = calc_cube(array)
